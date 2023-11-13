@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulidin-Ilham&langs_count=8&theme=onedark" alt=Maulidin-Ilham />
+<img align="left" height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulidin-Ilham&langs_count=8&theme=onedark" alt=Maulidin-Ilham />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Maulidin-Ilham&show_icons=true&locale=en&theme=onedark" alt="Maulidin-Ilham" /></p>
 
