@@ -1,4 +1,6 @@
-<img align="center" alt="Calm" width="500" height="187" src="sddsdadffd.gif">
+<div style="text-align: center;">
+  <img alt="Calm" width="500" height="187" src="sddsdadffd.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Ilham Maulidin</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maulidin-Ilham&label=Profile%20views&color=0e75b6&style=flat" alt="Maulidin-Ilham" /> </p>
