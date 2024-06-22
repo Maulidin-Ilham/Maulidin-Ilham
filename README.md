@@ -11,8 +11,7 @@ Currently studying at Polteknik Negeri Malang with a burning passion for web dev
 - 🌍  I'm based in Malang
 - 🖥️  See my portfolio at [https://ilham-maulidin.vercel.app/](http://ilham-maulidin.vercel.app/)
 - ✉️  You can contact me at [ilhammaulidin73@gmail.com](mailto:ilhammaulidin73@gmail.com)
-- 🧠  I'm learning ReactJS and NextJS
-- ⚡  I'm CR7 biggest fan btw
+- 🧠  I'm learning ReactJS, Next JS, Laravel, Node JS
 
 ### Skills
 
