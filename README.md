@@ -53,4 +53,7 @@ Currently studying at Polteknik Negeri Malang with a burning passion for web dev
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulidin-Ilham&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<p align="left">
+  <span style="margin-right: 7px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulidin-Ilham&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></span>
+</p>
+
